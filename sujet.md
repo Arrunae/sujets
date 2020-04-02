@@ -9,9 +9,9 @@ J'aimerais parler de ce sujet parce que je joue moi-même aux jeux-vidéos et qu
 
 Pour aller plus loin :
 
-1.[Article : Nintendo prépare déjà l'avenir avec une nouvelle manette](https://www.begeek.fr/nintendo-prepare-deja-lavenir-avec-une-nouvelle-manette-321782)
+1. [Article : Nintendo prépare déjà l'avenir avec une nouvelle manette](https://www.begeek.fr/nintendo-prepare-deja-lavenir-avec-une-nouvelle-manette-321782)
 
-2.[Article : L'évolution des manettes de jeux vidéo](http://hoopnod.com/evolution-manette-gamepad-jeux-video-histoire/)
+2. [Article : L'évolution des manettes de jeux vidéo](http://hoopnod.com/evolution-manette-gamepad-jeux-video-histoire/)
 
 ### La détection de mouvements
 
@@ -21,6 +21,6 @@ Je me suis toutjours demandé comment les appareils détectaient les mouvements.
 
 Pour aller plus loin :
 
-1.[Article : "Parlez-moi de vous" Kinect peut comprendre deux personnes en même temps](https://www.journaldugeek.com/2013/10/01/xbox-one-kinect-microsoft-bundle/)
+1. [Article : "Parlez-moi de vous" Kinect peut comprendre deux personnes en même temps](https://www.journaldugeek.com/2013/10/01/xbox-one-kinect-microsoft-bundle/)
 
-2.[Article : Comment fonctionne les détecteurs de mouvement ou de présence ?](https://couleur-science.eu/?d=daf2d5--comment-fonctionnent-les-detecteurs-de-mouvement-ou-de-presence)
+2. [Article : Comment fonctionne les détecteurs de mouvement ou de présence ?](https://couleur-science.eu/?d=daf2d5--comment-fonctionnent-les-detecteurs-de-mouvement-ou-de-presence)
